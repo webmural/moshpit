@@ -4,7 +4,8 @@
 }
 
 :root {
-  background: silver;
+  background-color: lemonchiffon;
+  background-image: radial-gradient(hotpink 0%, hotpink 33%, lemonchiffon 33%, lemonchiffon 67%, chocolate 67%, chocolate 100%);
   color: #212;
 }
 
