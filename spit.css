@@ -20,3 +20,9 @@ a { transition: 180ms }
   justify-content: center;
   min-height: 100vh;
 }
+
+@media (orientation: portrait) {
+  .surf {
+    writing-mode: vertical-lr;
+  }
+}
